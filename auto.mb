@@ -1,0 +1,26 @@
+- Marca VARCHAR (30) NOT NULL (SI PUO' CREARE UN FILE PER TUTTI I MARCHI)
+- Modello VARCHAR(20) NOT NULL (SI PUO' CREARE UN FILE PER TUTTI I MODELLI)
+- Versione VARCHAR(20) NOT NULL (SI PUO' CREARE UN FILE PER TUTTE LE VERSIONI)
+- Trazione VARCHAR (10) NULL
+- Cilindrata VARCHAR(20) NULL
+- Tipo di cambio VARCHAR (30) NOT NULL
+- Marce TINYINT NULL
+- Peso FLOAT (I,D) NULL
+- Km SMALL NOT NULL 
+- Anno YEAR NOT NULL
+- Prezzo DECIMAL(I,D) NULL
+- Colore VARCHAR (30) NULL
+- Classe emissioni TINYINT ???
+- Carburante VARCHAR (20) NOT NULL
+- Consumo medio FLOAT (I,D) NOT NULL
+- Emissione CO2 FLOAT (I,D) NOT NULL
+- Posti TINYINT NOT NULL
+- Porte TINYINT NOT NULL
+- Numero Proprietari TINYINT
+- Edizione VARCHAR (30) NULL
+- Garanzia VARCHAR (100) NULL
+- Condizioni pneumatici VARCHAR (100) NULL
+- Auto sinistrata ? VARCHAR (2) NULL
+- Optional disponibili VARCHAR (255) NOT NULL
+- Note VARCHAR (250) NULL
+
