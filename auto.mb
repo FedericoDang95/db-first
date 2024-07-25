@@ -8,7 +8,7 @@
 - Peso FLOAT (I,D) NULL
 - Km SMALL NOT NULL 
 - Anno YEAR NOT NULL
-- Prezzo DECIMAL(I,D) NULL
+- Prezzo INT NULL
 - Colore VARCHAR (30) NULL
 - Classe emissioni TINYINT ???
 - Carburante VARCHAR (20) NOT NULL
